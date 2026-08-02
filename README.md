@@ -13,7 +13,7 @@ Traits: Curious, consistent, coachable
 
 🎯 What I’m Looking For
 New-grad or internship opportunities where I can grow under strong mentorship, contribute to real products, and continue leveling up as an engineer.
-https://leetcard.jacoblin.cool/doudoug1_?theme=dark
+
 
 <!--
 **Doudougassama/Doudougassama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
