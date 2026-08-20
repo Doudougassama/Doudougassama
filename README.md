@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m a Computer Science senior based in Ottawa with a strong focus on Python development, backend systems, and applied AI. I enjoy building things that actually work, learning fast, and writing code that’s clean, readable, and efficient. 
+I’m a Computer Science grad based in Ottawa with a strong focus on Python development, backend systems, and applied AI. I enjoy building things that actually work, learning fast, and writing code that’s clean, readable, and efficient. 
 
 
 I’m solid on core CS fundamentals—data structures and algorithms, operating systems, and concurrency—and I’m especially interested in AI-driven systems, data workflows, and scalable backend solutions. Outside of tech, I play basketball; discipline, repetition, and teamwork are second nature to me.
